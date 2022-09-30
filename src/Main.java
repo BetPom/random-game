@@ -3,7 +3,7 @@ public class Main {
         String[] gameConsoles={"PlayStation 5", "PlayStatin 5 Digital",
         "Xbox","xsxs", "sfd", "afsvx", "123", "456"};
                 double lucky=Math.random();
-                lucky *=6;
+                lucky *=7;
                 int indexLucky=(int)lucky;
         System.out.printf(gameConsoles[indexLucky]);
 
